@@ -3,5 +3,5 @@
 ___
 
 ### 1. [Toucans](Toucan.md)
-### 2.  [Wolves](Wolves.md)
-### 3. [Marlins](Marlins.md)
+### 2.  [Wolves](Wolf.md)
+### 3. [Marlins](Marlin.md)
