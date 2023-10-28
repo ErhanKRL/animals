@@ -1,9 +1,8 @@
 # TOUCANS
-___
 
 <img
     src="https://images.birdfact.com/production/how-long-do-toucans-live.jpg?w=1200&h=900&q=80&fm=webp&fit=crop&dm=1646475106&s=6896ec9d7fbd44096c90e760d15df34e"
-    style="width:200px;">
+    style="width:400px; height:300px">
 
 ___
 * Toucans are Neotropical members of the near passerine bird family Ramphastidae. They are brightly marked and have large, often colorful bills.
